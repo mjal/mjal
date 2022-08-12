@@ -1,16 +1,15 @@
-### Hi there 👋
+### Let's build the internet 🚀
 
-<!--
-**mjal/mjal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [safebook](https://github.com/safebook/safebook)
 
-Here are some ideas to get you started:
+### Sponsors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*No sponsors*
+
+For more information, see [the sponsors page](https://github.com/sponsors/mjal/).
+
+### Contact info
+- Mail: maxime.lalisse@gmail.com
+- Keybase: https://keybase.io/mjal
+- BTC: TODO
+- mjal.eth
