@@ -1,6 +1,6 @@
 ### Let's build the internet 🚀
 
-- 🔭 I’m currently working on [safebook](https://github.com/safebook/safebook)
+- I’m currently working on [safebook](https://github.com/safebook/safebook)
 
 ### Sponsors
 
