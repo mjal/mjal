@@ -1,6 +1,7 @@
 ### Let's build the internet 🚀
 
 - I’m currently working on [safebook](https://github.com/safebook/safebook)
+- I'm also interessed in building a frontpage [ami](https://github.com/mjal/ami) and [ami3d](https://github.com/mjal/ami3d)
 
 ### Sponsors
 
