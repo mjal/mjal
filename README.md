@@ -1,8 +1,6 @@
-### Let's build the internet 🚀
-
 - Building a decentralized voting platform
-- I’m currently working on [safebook](https://github.com/safebook/safebook)
-- I'm also interessed in building a frontpage [ami](https://github.com/mjal/ami) and [ami3d](https://github.com/mjal/ami3d)
+- Working on social networks ([safebook project](https://github.com/safebook/safebook))
+- Building a frontpage [ami](https://github.com/mjal/ami) and [ami3d](https://github.com/mjal/ami3d)
 
 ### Contact info
 
