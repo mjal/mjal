@@ -4,7 +4,7 @@
 
 - [rescript bindings for the sjcl](https://github.com/scrutin-app/rescript-sjcl)
 
-- [safebook-zero: bitmessage-like protocol in the browser](https://github.com/safebook/safebook-zero)
+- [safebook-zero: bitmessage-like protocol in the browser](https://github.com/safebook/zero)
 
 - Working on social networks ([safebook project](https://github.com/safebook/safebook))
 
