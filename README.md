@@ -10,4 +10,4 @@
 
 - Building a fun frontpage [ami](https://github.com/mjal/ami) and [ami3d](https://github.com/mjal/ami3d)
 
-[GitHub Sponsors](https://github.com/sponsors/mjal/)
+[0 GitHub Sponsors](https://github.com/sponsors/mjal/)
