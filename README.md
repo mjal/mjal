@@ -1,4 +1,4 @@
-- Building [scrutin](https://github.com/scrutin-app/scrutin), a decentralized voting platform
+- Building [scrutin](https://github.com/scrutin-app/scrutin), a decentralized voting platform ([scrutin.app](https://scrutin.app))
 
 - [safebook-zero: bitmessage-like protocol in the browser](https://github.com/safebook/zero)
 
