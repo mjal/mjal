@@ -9,5 +9,3 @@
 - Working on social networks ([safebook project](https://github.com/safebook/safebook))
 
 - Building a fun frontpage [ami](https://github.com/mjal/ami) and [ami3d](https://github.com/mjal/ami3d)
-
-[0 GitHub Sponsors](https://github.com/sponsors/mjal/)
