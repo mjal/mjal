@@ -1,4 +1,4 @@
-- [Building a e2e verifiable e-voting app](https://scrutin.app) ([source code](https://github.com/scrutin-app/scrutin))
+- [Building a e2e verifiable e-voting app](https://scrutin.app) ([source](https://github.com/scrutin-app/scrutin))
 
 - [The Safebook utopy](https://blog.safebook.fr/) (WIP)
 
