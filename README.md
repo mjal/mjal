@@ -1,15 +1,11 @@
-Hi internet person,
+My main interests are :
+- provable security
+- e-voting
+- end-to-end encryption
+- metadata-free communications
 
-My interests are provable security, e-voting, end-to-end encrypted messaging,
-and metadata-free communications. Here are some projects of mine.
+My main projects are :
 
-- Sirona: A tool for the Belenios e-voting system
-  ([source](https://github.com/mjal/sirona))
-  ([web-ui](https://mjal.github.io/sirona))
-
-- Scrutin: An e2e verifiable e-voting app based on Belenios
-  ([website](https://scrutin.app)) ([source](https://github.com/mjal/scrutin))
-
-- [Random writings (The Safebook utopia)](https://blog.safebook.fr/)
-
-- [A search frontend](https://mjal.github.io/ami3d/)
+- [Sirona](https://github.com/mjal/sirona): A tool for interacting with the Belenios e-voting system ([belenios verifier](https://mjal.github.io/sirona))
+- [Scrutin](https://scrutin.app): An open-source e2e verifiable e-voting app based on Belenios ([code](https://github.com/mjal/scrutin))
+- A self-hostable search engine frontend (v1)[https://mjal.github.io/ami/] (v2)[https://mjal.github.io/ami3d/] (v3)[https://mjal.github.io/ami3/]
